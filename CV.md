@@ -1,9 +1,3 @@
----
-Date: 2012-01-26
-Title: Curriculum Vitae
-Type: Page
----
-
 # BENJAMIN MICHAEL WALKER
 
 Bothell, WA  
