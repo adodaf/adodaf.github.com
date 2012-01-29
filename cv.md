@@ -4,22 +4,16 @@ Bothell, WA
 (425) 686-8348  
 benjamin@adodaf.com
 
----
-
 ## SUMMARY OF WORK EXPERIENCE
 
 - 10+ years of accumulated full&#8211;time and temporary experience
 - Efficient completion of varied responsibilities within constraints
-
----
 
 ## ETHICS
 
 - Amicable disposition towards fellow Earthlings
 - Idealistic pragmatism, based on cooperation, diligence, patience, and reciprocity
 - Commitment to autodidactic and heuristic methodologies; acquiring and utilizing all available knowledge
-
----
 
 ## COMPUTATIONAL CONVERSANCE
 
@@ -28,8 +22,6 @@ benjamin@adodaf.com
 - *Programming Languages:* Clojure/Lisp *(fledgling familiarity)*, CSS, HTML
 - *Software:* Eclipse IDE; git; Libre/Microsoft Office; sundry audio/visual applications
 - *Typing:* 50+ words per minute
-
----
 
 ## EDUCATION
 
@@ -41,8 +33,6 @@ benjamin@adodaf.com
 - Received GED on February 5th, 1997
 - Received diploma on August 1st, 1997
 - Completed 730 hours of training and experience in the International Brotherhood of Painters and Allied Trades pre&#8211;apprenticeship sign and display program
-
----
 
 ## EMPLOYMENT HISTORY
 
